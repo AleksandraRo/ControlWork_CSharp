@@ -16,3 +16,17 @@ string[] array3 = {"Russia", "Denmark", "Kazan"};
 int max = 3;     
 
 
+// 2. Назначаю функцию для подсчёта количества элементов в массиве с длиной строк не больше заданной (max)
+int CountItemsMaxLength(string[] arr, int max) 
+{
+    int count = 0;                                      // инициируется счетчик
+    for (int i = 0; i < arr.Length; i++)                // назначается цикл по элементам массива
+    {             
+        if (arr[i].Length <= max)                       // проверяется длина элементов не больше max
+        {                     
+            count++;                                    // увеличивается счетчик
+        }
+    }
+    return count;                                       // возвращается результат
+}
+
