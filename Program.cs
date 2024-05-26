@@ -67,3 +67,9 @@ void Solving(string[] arr, int max) {
     PrintArray(newArray);
     Console.WriteLine();
 }
+
+// 6. Итак, решение
+
+Solving(array1, max);
+Solving(array2, max);
+Solving(array3, max);
