@@ -1,0 +1,15 @@
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\bin\Debug\net6.0\ControlWork.exe
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\bin\Debug\net6.0\ControlWork.deps.json
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\bin\Debug\net6.0\ControlWork.runtimeconfig.json
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\bin\Debug\net6.0\ControlWork.dll
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\bin\Debug\net6.0\ControlWork.pdb
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\obj\Debug\net6.0\ControlWork.csproj.AssemblyReference.cache
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\obj\Debug\net6.0\ControlWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\obj\Debug\net6.0\ControlWork.AssemblyInfoInputs.cache
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\obj\Debug\net6.0\ControlWork.AssemblyInfo.cs
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\obj\Debug\net6.0\ControlWork.csproj.CoreCompileInputs.cache
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\obj\Debug\net6.0\ControlWork.dll
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\obj\Debug\net6.0\refint\ControlWork.dll
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\obj\Debug\net6.0\ControlWork.pdb
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\obj\Debug\net6.0\ControlWork.genruntimeconfig.cache
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\ControlWork\obj\Debug\net6.0\ref\ControlWork.dll
