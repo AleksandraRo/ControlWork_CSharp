@@ -30,3 +30,18 @@ int CountItemsMaxLength(string[] arr, int max)
     return count;                                       // возвращается результат
 }
 
+// 3. Cоздаю новый массив и заполняю его элементами с длиной строк не больше заданной (max)
+string[] NewArray(string[] arr, int max) {
+
+    int newArrayLenght = CountItemsMaxLength(arr, max);  // узнаем, сколько элементов массива меньше заданной длинны
+    string[] newArray = new string[newArrayLenght];     // создаем новый массив полученной длины
+    int newArrayIndex = 0;                              // инициируется счетчик индексов нового массива
+    for (int i = 0; i < arr.Length; i++) {              // перебираем исходный массив
+        if (arr[i].Length <= max) {                     // проверяем, подходит ли элемент массива заданным условиям        
+            newArray[newArrayIndex] = arr[i];           // копируем элемент в новый массив
+            newArrayIndex++;                            // увеличиваем индекс - переходим к проверке след. элемента
+        }
+    }
+    return newArray;                                    // возвращаем полученный массив
+}
+
